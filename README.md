@@ -6,24 +6,10 @@ Pencatatan pembayaran uang kas mingguan oleh bendahara kelas saat ini masih meng
 
 [Previous Code](https://github.com/Abraham4517/PBO_M3_PHPOOPFundamental )
 
-## Installation
-Make sure to download XAMPP and start Apache and MySQL to actually work and also Visual Studio Code 
-
-- **Php**
-
-[XAMPP](https://pip.pypa.io/en/stable/](https://www.apachefriends.org/download.html )
-
-```bash
-git clone https://github.com/Abraham4517/PBO_M4_Encapsulation.git
-cd PBO_M4_Encapsulation.git
-npm install PBO_M4_Encapsulation.git
-```
-
-## Usage
-
-```bash
-npm start
-```
+## Requirements
+Untuk menjalankan aplikasi sederhana ini, pastikan komputer/laptop Anda telah terinstal perangkat lunak berikut:
+1.  **XAMPP:** Sebagai *local web server* dan menyediakan *environment* PHP (PHP 8.x direkomendasikan).
+2.  **Visual Studio Code (VS Code):** Sebagai *code editor* untuk menulis dan menjalankan kode.
 
 ## Penjelasan 2
 Pada kodingan refactoring berdasarkan di atas, property $nama_siswa, $nis, dan $jumlah_tunggakan diubah akses nya yang dari public menjadi private untuk mengamankan data. 
