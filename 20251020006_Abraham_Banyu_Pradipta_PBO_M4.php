@@ -1,4 +1,5 @@
 <?php
+namespace PBO4_;
 
 class Siswa {
     private string $nama_siswa;
