@@ -7,7 +7,7 @@ Pencatatan pembayaran uang kas mingguan oleh bendahara kelas saat ini masih meng
 [Previous Code](https://github.com/Abraham4517/PBO_M3_PHPOOPFundamental )
 
 ## Requirements
-Untuk menjalankan aplikasi sederhana ini, pastikan komputer/laptop Anda telah terinstal perangkat lunak berikut:
+Pastikan pengguna mempunyai perangkat lunak berikut:
 1.  **XAMPP:** Sebagai *local web server* dan menyediakan *environment* PHP (PHP 8.x direkomendasikan).
 2.  **Visual Studio Code (VS Code):** Sebagai *code editor* untuk menulis dan menjalankan kode.
 
